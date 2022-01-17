@@ -2,7 +2,7 @@
 
 # main.cpp
 
-We modified the code in <b>mbed-os-example-sockets/src/main.cpp</b> to finish our finish our term project.
+We modified the code in <b>mbed-os-example-sockets/src/main.cpp</b> to finish our term project.
 
 # gui_server.py
 UI + server + plot
